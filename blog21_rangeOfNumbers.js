@@ -13,5 +13,3 @@ range = (start, end, step = start < end ? 1 : -1) => {
     // Return the range
     return arr
 }
-
-
